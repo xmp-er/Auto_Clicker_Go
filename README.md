@@ -1,4 +1,4 @@
-![neco_arc](https://github.com/xmp-er/Auto_Clicker_Go/assets/107166230/5f629cb0-3170-495f-9006-488b5b4c5673)
+![for_loyal_broski](https://github.com/xmp-er/Auto_Clicker_Go/assets/107166230/761089b5-d5b1-4ec6-8fd5-e43ebfe89433)
 
 # Autoclicker_Go
  - [Autoclicker_Go](#autoclicker_go)
